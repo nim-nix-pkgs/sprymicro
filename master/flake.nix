@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-sprymicro-master.flake = false;
+  inputs.src-sprymicro-master.ref   = "refs/heads/master";
   inputs.src-sprymicro-master.owner = "gokr";
-  inputs.src-sprymicro-master.ref   = "master";
   inputs.src-sprymicro-master.repo  = "sprymicro";
   inputs.src-sprymicro-master.type  = "github";
   
