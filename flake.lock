@@ -471,11 +471,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668751235,
-        "narHash": "sha256-q7hNhzEe45YejqmPt1ikBydcZEfdTK/FwpmUe6/G4PU=",
+        "lastModified": 1668751247,
+        "narHash": "sha256-ueRsqlG5a6Tmmc0NcW2osxmd8N/rS7GCgQXyRnC+hks=",
         "owner": "nim-nix-pkgs",
         "repo": "sprymicro",
-        "rev": "bea26f867e1ddf9d887ca70121153efe5c1eb5d1",
+        "rev": "c1374e5b048cc1a5b455278f312ee32580e802a8",
         "type": "github"
       },
       "original": {
